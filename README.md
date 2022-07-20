@@ -56,4 +56,8 @@
 
 ![sheets](https://user-images.githubusercontent.com/77201192/144820227-97accd4e-dcb1-449b-b24d-2b0160fc5c99.png)
 
+### Example :
+
+![image](https://user-images.githubusercontent.com/70385488/180052377-2eb155cc-9cf2-4b51-8ef4-74ca2d2c6d89.png)
+
 ### New Features and improvements will be added time to time in future.
